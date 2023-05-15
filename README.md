@@ -1,3 +1,5 @@
+Credits to https://github.com/Leoningel/
+
 # Gait_event_detection
 A programme to extract gait events from time to position data.
 
